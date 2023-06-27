@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.1feb64bf.css",
-    "main.js": "/static/js/main.778943d3.js",
+    "main.js": "/static/js/main.c8a46805.js",
+    "static/media/squarespace.png": "/static/media/squarespace.3efa5c00ca875d05abe5.png",
+    "static/media/citytaxi.png": "/static/media/citytaxi.18ddfeedec67bda6f482.png",
     "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
     "static/media/wuillemin-fleuristes.ch.jpg": "/static/media/wuillemin-fleuristes.ch.326f48d93f65c48a556a.jpg",
     "static/media/globaxlimousine.com.jpg": "/static/media/globaxlimousine.com.ee8737dc5850c5182708.jpg",
@@ -20,10 +22,10 @@
     "static/media/globe2.svg": "/static/media/globe2.49f76029015fad74a47a3551b2ae34fa.svg",
     "index.html": "/index.html",
     "main.1feb64bf.css.map": "/static/css/main.1feb64bf.css.map",
-    "main.778943d3.js.map": "/static/js/main.778943d3.js.map"
+    "main.c8a46805.js.map": "/static/js/main.c8a46805.js.map"
   },
   "entrypoints": [
     "static/css/main.1feb64bf.css",
-    "static/js/main.778943d3.js"
+    "static/js/main.c8a46805.js"
   ]
 }
